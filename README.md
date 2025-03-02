@@ -1,45 +1,42 @@
-# 👋 Hi, I'm Severyn Balaniuk
+# Severyn Balaniuk | ML Engineer & Quantum Computing Enthusiast
 
-## 🚀 Skills
+<a href='https://www.linkedin.com/in/SBalaniuk/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
+<br/>
 
-```python
-# ML Engineering Skills
-{
-    "Languages": ["Python", "Java", "Julia", "SQL"],
-    "ML/AI": ["PyTorch", "TensorFlow", "Keras", "Scikit-learn", "Pandas", "NumPy", "MLflow", "XGBoost", "GPT"],
-    "Cloud/DevOps": ["Git", "Docker", "AWS", "Azure", "CI/CD"],
-    "Domain Knowledge": ["Computer Vision", "Semi-Supervised Learning", "Quantum Computing", "FPGA Deployment"]
-}
-```
+I specialize in building machine learning systems that solve complex problems, particularly at the intersection of ML and quantum computing. My experience spans from developing distributed training pipelines to optimizing compilers with ML techniques.
 
-## 🔥 Featured ML Projects
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
-### Wildfire Growth Prediction Model | Hackathon Winner
-Developed a Deep Neural Network to predict wildfire spread using satellite imagery, weather, and topography data. Achieved 87% accuracy for 24-hour predictions, enabling more effective emergency response planning.
+### 🔨 Languages and Tools:
+<a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="42px"/> </a> 
+<a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> </a> 
+<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
+<a href="https://scikit-learn.org/" target="_blank"><img align="left" alt="Scikit-learn" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"></a>
+<a href="https://www.docker.com/" target="_blank"><img align="left" alt="Docker" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/docker/docker.svg"></a>
+<a href="https://aws.amazon.com/" target="_blank"><img align="left" alt="AWS" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg"></a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
 
-**Tech:** PyTorch, CNN, Satellite Image Processing, AWS
+<br><br><br>
 
-### Semi-Supervised Neural Network for Image Classification
-Created a custom semi-supervised model for classifying microscopy images that reduced labeled data dependency by 80% while maintaining high accuracy. Implemented with PyTorch and OpenCV, with model performance tracking via MLflow.
+### 🚀 ML Projects
 
-### ML Pipeline for Fluorescence Image Classification
-Designed and implemented a distributed ML pipeline that increased classification accuracy by 31% for 500,000 fluorescence images across 16 classes using PyTorch, OpenCV, and Optuna. Applied quantization techniques enabling real-time FPGA deployment with 29% reduced memory consumption.
+#### Wildfire Growth Prediction | Hackathon Winner
+Built a CNN-based model that predicts wildfire spread patterns with 87% accuracy using satellite imagery, weather data, and topographical information. This tool helps emergency response teams better allocate resources and plan evacuation routes.
 
-### Automated ETL & Model Monitoring System
-Built an end-to-end ML pipeline using Apache Airflow, Docker, and Spark to process 50GB+ daily transportation data. Created real-time model monitoring system with anomaly detection in <100ms latency.
+#### Semi-Supervised Image Classification
+Developed a neural network architecture that reduced labeled data requirements by 80% while maintaining classification accuracy. This approach makes scientific research more efficient by minimizing the expensive manual labeling process typically required.
 
-### RAG-based Recommendation System
-Implemented a Retrieval-Augmented Generation system combining vector databases (FAISS) with LLMs to create context-aware recommendations. Built with FastAPI, LangChain, and custom embedding models.
+#### ML-Enhanced Quantum Compiler
+Integrated PyTorch ML models into an LLVM compiler front-end, reducing errors by 30% and improving runtime efficiency by 15%. This work bridges the gap between classical machine learning and quantum computing applications.
 
-## 🧰 ML Engineering Experience
+#### Fluorescence Image Classification Pipeline
+Created a distributed ML pipeline that improved classification accuracy by 31% for 500,000 fluorescence images across 16 classes. Applied model quantization techniques that enabled real-time deployment on FPGA with 29% reduced memory footprint.
 
-### Open Quantum Design | ML Compiler Optimization
-- Integrated PyTorch ML models into LLVM compiler front-end, reducing errors by 30%
-- Improved runtime efficiency by 15% through compiler code refactoring
+### 🔬 ML Experience
 
-### Machine Learning Engineer | Waterloo.AI
-- Applied semi-supervised learning techniques on Azure GPU clusters
-- Implemented model quantization for edge deployment
-- Developed anomaly detection systems with Python and Spark
+My ML engineering journey spans roles at Open Quantum Design and Waterloo.AI, where I've applied semi-supervised learning techniques, developed anomaly detection systems, and optimized ML models for deployment on specialized hardware. I'm particularly interested in quantum machine learning applications and developing ML systems that can scale efficiently.
 
-Let's connect and build something amazing with ML!
+### 📊 GitHub Stats
+
+![Stats Overview](https://github-readme-stats.vercel.app/api?username=SeivenBell&show_icons=true&count_private=true&theme=react)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SeivenBell&layout=compact&theme=react)
