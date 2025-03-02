@@ -36,7 +36,3 @@ Created a distributed ML pipeline that improved classification accuracy by 31% f
 
 My ML engineering journey spans roles at Open Quantum Design and Waterloo.AI, where I've applied semi-supervised learning techniques, developed anomaly detection systems, and optimized ML models for deployment on specialized hardware. I'm particularly interested in quantum machine learning applications and developing ML systems that can scale efficiently.
 
-### 📊 GitHub Stats
-
-![Stats Overview](https://github-readme-stats.vercel.app/api?username=SeivenBell&show_icons=true&count_private=true&theme=react)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SeivenBell&layout=compact&theme=react)
