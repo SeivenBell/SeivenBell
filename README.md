@@ -28,6 +28,7 @@ I specialize in building machine learning systems that solve complex problems, p
 
 ## Projects
 
+
 ### Wildfire Growth Prediction | Hackathon Winner
 Built a CNN-based model that predicts wildfire spread patterns with 87% accuracy using satellite imagery, weather data, and topographical information. This tool helps emergency response teams better allocate resources and plan evacuation routes.
 
