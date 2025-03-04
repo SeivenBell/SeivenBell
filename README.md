@@ -15,15 +15,12 @@ I specialize in building machine learning systems that solve complex problems, p
 <a href="https://keras.io/" target="_blank"><img align="left" alt="Keras" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg"></a>
 <a href="https://pandas.pydata.org/" target="_blank"><img align="left" alt="Pandas" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"></a>
 <a href="https://numpy.org/" target="_blank"><img align="left" alt="NumPy" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg"></a>
-<a href="https://fastapi.tiangolo.com/" target="_blank"><img align="left" alt="FastAPI" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/8/80/FastAPI_logo.svg"></a>
 <a href="https://react.dev/" target="_blank"><img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"></a>
 <a href="https://git-scm.com/" target="_blank"><img align="left" alt="Git" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg"></a>
 <a href="https://www.docker.com/" target="_blank"><img align="left" alt="Docker" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/docker/docker.svg"></a>
 <a href="https://aws.amazon.com/" target="_blank"><img align="left" alt="AWS" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg"></a>
 <a href="https://azure.microsoft.com/" target="_blank"><img align="left" alt="Azure" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg"></a>
-<a href="https://mlflow.org/" target="_blank"><img align="left" alt="MLflow" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/MLflow-logo.png"></a>
 <a href="https://xgboost.ai/" target="_blank"><img align="left" alt="XGBoost" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/6/69/XGBoost_logo.png"></a>
-<a href="https://qiskit.org/" target="_blank"><img align="left" alt="Qiskit" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Qiskit-Logo.svg"></a>
 <a href="https://www.postgresql.org/" target="_blank"><img align="left" alt="PostgreSQL" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg"></a>
 <a href="https://www.linux.org/" target="_blank"><img align="left" alt="Linux" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg"></a>
 
