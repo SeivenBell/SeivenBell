@@ -24,7 +24,7 @@ I specialize in building machine learning systems that solve complex problems, p
 <a href="https://www.postgresql.org/" target="_blank"><img align="left" alt="PostgreSQL" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg"></a>
 <a href="https://www.linux.org/" target="_blank"><img align="left" alt="Linux" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg"></a>
 
-<br><br><br>
+<br><br><br> <!-- This ensures spacing between sections -->
 
 ## Projects
 
